@@ -22,7 +22,7 @@ body {
   position: relative;
 }
 
-/* Container tombol */a
+/* Container tombol */
 .scenes {
   display: flex;
   flex-wrap: wrap;
